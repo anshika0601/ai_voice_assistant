@@ -39,23 +39,3 @@ cd voice-assistant
 
 ---
 
-### 🌍 Language Support
-
-Whisper → Multilingual transcription (but Hindi accents may need medium or large models for better accuracy).
-
-gTTS → Supports 30+ languages including hi (Hindi) and en (English).
-
-
----
-
-### 🔄 Possible Improvements
-
-Use Coqui TTS or pyttsx3 for faster, offline TTS.
-
-Switch to Streamlit UI for a cleaner dashboard.
-
-Add multi-turn conversation history with LangChain memory.
-
-Support real-time streaming audio (LiveKit or WebRTC).
-
-
